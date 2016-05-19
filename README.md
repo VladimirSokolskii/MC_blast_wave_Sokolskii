@@ -3,3 +3,4 @@
 После чего установить https://github.com/root-mirror/root/tree/master/bindings/pyroot/JupyROOT
 Если всетаки у Вас в jupyter не появляется возможность выбрать ядро python2 Вам поможет смена ядра
 https://ipython.readthedocs.io/en/latest/install/kernel_install.html
+Удачи!
